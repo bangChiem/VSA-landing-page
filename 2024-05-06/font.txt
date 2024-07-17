@@ -1,0 +1,7 @@
+INDEX
+    sec1:
+        h1(size 30em, weight 500)
+    sec1MOBILE:
+        h1(size 25em)
+        h2(2em, 500)
+
